@@ -59,10 +59,10 @@
     display: flex;
     justify-content: space-evenly;
     background-color: pink;
-    width: 950px;
+    width: 1000px;
     height: 40px;
     border-radius: 4px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 
 .nav-search:hover{
@@ -98,7 +98,7 @@
 
 /** Box 4 **/ 
 .nav-signin {
-    margin-left: 25px;
+    margin-left: 35px;
 }
 
 span {
@@ -111,11 +111,11 @@ span {
 }
 
 .accounts{
-    margin-right: 15px;
+    margin-right: 25px;
 }
 
 .orders{
-    margin-right: 15px;
+    margin-right: 25px;
 }
 
 /** Box 5 **/
